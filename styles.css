@@ -1,5 +1,8 @@
 body{
     background-color: rgb(79, 119, 79);
-    color: white;
+    color: black;
     font-family: "Nerko One", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
