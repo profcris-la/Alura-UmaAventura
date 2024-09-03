@@ -14,3 +14,11 @@ button{
     color: white;
     font-family: "Baskervville SC", serif;
 }
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
